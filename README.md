@@ -30,7 +30,7 @@ robust signal/noise separation.
   and individual stock effects.
 
 ## Methods
-- Daily return calculation: R_t = (P_{t-1} / P_t) - 1
+- Daily return calculation: R_t = (P_t / P_{t-1}) - 1
 - Empirical correlation matrix estimation (293 assets, 1992–2014)
 - **Power Mapping**: non-linear filter ρ_ij → |ρ_ij|^q, 1 < q < 2,
   resolving matrix singularity (zero eigenvalues)
