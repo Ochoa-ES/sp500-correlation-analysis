@@ -62,5 +62,6 @@ sp500-correlation-analysis/
 │   ├── 02-1_CWE_constant_correlation.ipynb
 │   ├── 02-2_CWE_constant_correlation_by_sector.ipynb
 │   ├── 03_eigenvalue_analysis.ipynb
-│   ├── 04_eigenvector_analysis.ipynb
+│   ├── 04-1_eigenvector_analysis.ipynb
+│   ├── 04-2_eigenvector_analysis_Intensity.ipynb
 │   └── 05_figures.ipynb
