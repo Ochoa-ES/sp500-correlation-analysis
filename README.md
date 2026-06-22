@@ -64,7 +64,7 @@ Black: CWE by sector.*
 
 ### Variance and Skewness vs Background Correlation
 ![Variance](figures/varianzaCmean.png)
-*Variance (black) and skewness (red) of the emerging spectrum 
+*Variance (black), skewness (blue) and mean (red) of the emerging spectrum 
 compared to background correlation. Anticorrelation is notably 
 strong during the 2008 financial crisis.*
 
