@@ -59,8 +59,8 @@ Orange: CWE benchmark.*
 ### Number of Negative Eigenvalues Over Time
 ![Negative eigenvalues](figures/numero_negativos.png)
 *Negative eigenvalue count across 262 windows (1992-2014). 
-Red: empirical data. Blue: CWE constant correlation. 
-Black: CWE by sector.*
+Red: empirical data. Black: CWE constant correlation. 
+Blue: CWE by sector.*
 
 ### Variance and Skewness vs Background Correlation
 ![Variance](figures/varianzaCmean.png)
