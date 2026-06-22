@@ -48,6 +48,26 @@ robust signal/noise separation.
   - **Overlap Spectral Contribution (OSC)**: quantifies how Power
     Mapping perturbs the eigenvector structure
 
+    ## Key Figures
+
+### Eigenvalue Spectrum vs CWE Benchmark
+![Eigenvalue spectrum](figures/espectrocompleto_eigenvalores.png)
+*Full eigenvalue spectrum (bulk and emerging) compared against the 
+Correlated Wishart Ensemble. Black: empirical S&P 500 data. 
+Orange: CWE benchmark.*
+
+### Number of Negative Eigenvalues Over Time
+![Negative eigenvalues](figures/numero_negativos.png)
+*Negative eigenvalue count across 262 windows (1992-2014). 
+Red: empirical data. Blue: CWE constant correlation. 
+Black: CWE by sector.*
+
+### Variance and Skewness vs Background Correlation
+![Variance](figures/varianzaCmean.png)
+*Variance (black) and skewness (red) of the emerging spectrum 
+compared to background correlation. Anticorrelation is notably 
+strong during the 2008 financial crisis.*
+
 ## Tech Stack
 - Python 3.x
 - NumPy, SciPy
