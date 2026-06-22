@@ -54,7 +54,7 @@ robust signal/noise separation.
 - Matplotlib
 
 ## Repository Structure
-'''
+```
 sp500-correlation-analysis/
 │
 ├── README.md
@@ -71,7 +71,7 @@ sp500-correlation-analysis/
 │
 └── figures/
     └── *.png
-'''
+```
 ## Relevance to Portfolio Risk Management
 The methods developed in this thesis are directly applicable to
 portfolio risk management:
